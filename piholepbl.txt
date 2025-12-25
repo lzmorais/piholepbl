@@ -42,4 +42,6 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 claritybt.myfreshworks.com
+0.0.0.0 freshworks.com
 0.0.0.0 youtube.com/ads/
